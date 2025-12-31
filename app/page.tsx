@@ -15,45 +15,45 @@ type Product = {
 
 const PRODUCTS: Product[] = [
   // Instagram
-  { title: "Follower (Update)", description: "Mix, Harga /100 Folls", price: 5000, category: "Instagram", sold: 200 },
-  { title: "Follower Indonesia", description: "Real INDO bergaransi, Harga /100 Folls", price: 7000, category: "Instagram", sold: 500 },
-  { title: "Like Postingan Garansi", description: "Harga /1K", price: 7000, category: "Instagram", sold: 350 },
-  { title: "Like Postingan INDO", description: "Real INDO Harga /100", price: 6000, category: "Instagram", sold: 280 },
-  { title: "Save Postingan", description: "Harga /1k", price: 9000, category: "Instagram", sold: 150 },
-  { title: "Viewer Video", description: "Harga /10K", price: 10000, category: "Instagram", sold: 420 },
+  { title: "Follower (Update)", description: "Mix, Harga /100 Folls", price: 5000, category: "Instagram", sold: 1 },
+  { title: "Follower Indonesia", description: "Real INDO bergaransi, Harga /100 Folls", price: 7000, category: "Instagram", sold: 4 },
+  { title: "Like Postingan Garansi", description: "Harga /1K", price: 7000, category: "Instagram", sold: 1 },
+  { title: "Like Postingan INDO", description: "Real INDO Harga /100", price: 6000, category: "Instagram", sold: 1 },
+  { title: "Save Postingan", description: "Harga /1k", price: 9000, category: "Instagram", sold: 1 },
+  { title: "Viewer Video", description: "Harga /10K", price: 10000, category: "Instagram", sold: 1 },
 
   // TikTok
-  { title: "Like Komentar", description: "Harga /1K", price: 6000, category: "TikTok", sold: 260 },
-  { title: "View / Like / Follower INDO", description: "Real INDO,Harga /100", price: 17000, category: "TikTok", sold: 310 },
-  { title: "Follower Low Quality", description: "Harga /200", price: 5000, category: "TikTok", sold: 180 },
-  { title: "Follower Mix", description: "Harga /200", price: 6000, category: "TikTok", sold: 220 },
-  { title: "Like + View Postingan", description: "Harga /1K", price: 6500, category: "TikTok", sold: 195 },
-  { title: "Like Postingan", description: "Harga /1K", price: 5000, category: "TikTok", sold: 340 },
-  { title: "Share Postingan / Video", description: "Harga /1K", price: 5500, category: "TikTok", sold: 170 },
-  { title: "Video View", description: "Harga /10K", price: 10000, category: "TikTok", sold: 400 },
+  { title: "Like Komentar", description: "Harga /1K", price: 6000, category: "TikTok", sold: 1 },
+  { title: "View / Like / Follower INDO", description: "Real INDO,Harga /100", price: 17000, category: "TikTok", sold: 1 },
+  { title: "Follower Low Quality", description: "Harga /200", price: 5000, category: "TikTok", sold: 1 },
+  { title: "Follower Mix", description: "Harga /200", price: 6000, category: "TikTok", sold: 3 },
+  { title: "Like + View Postingan", description: "Harga /1K", price: 6500, category: "TikTok", sold: 1 },
+  { title: "Like Postingan", description: "Harga /1K", price: 5000, category: "TikTok", sold: 1 },
+  { title: "Share Postingan / Video", description: "Harga /1K", price: 5500, category: "TikTok", sold: 1 },
+  { title: "Video View", description: "Harga /10K", price: 10000, category: "TikTok", sold: 1 },
 
   // Facebook
-  { title: "Follower", description: "Harga /250", price: 4000, category: "Facebook", sold: 140 },
-  { title: "Like Halaman (Page)", description: "Harga /100", price: 6000, category: "Facebook", sold: 190 },
-  { title: "Like Postingan", description: "Harga /1K", price: 9000, category: "Facebook", sold: 210 },
-  { title: "View Reels", description: "Harga /10K", price: 11000, category: "Facebook", sold: 300 },
-  { title: "View Reels / Video", description: "Harga /1K", price: 6000, category: "Facebook", sold: 230 },
-  { title: "View Video", description: "Harga /1K", price: 6500, category: "Facebook", sold: 250 },
+  { title: "Follower", description: "Harga /250", price: 4000, category: "Facebook", sold: 3 },
+  { title: "Like Halaman (Page)", description: "Harga /100", price: 6000, category: "Facebook", sold: 1 },
+  { title: "Like Postingan", description: "Harga /1K", price: 9000, category: "Facebook", sold: 1 },
+  { title: "View Reels", description: "Harga /10K", price: 11000, category: "Facebook", sold: 1 },
+  { title: "View Reels / Video", description: "Harga /1K", price: 6000, category: "Facebook", sold: 1 },
+  { title: "View Video", description: "Harga /1K", price: 6500, category: "Facebook", sold: 1 },
 
   // Discord
-  { title: "Discord Nitro 3 Bulan", description: "Include claim (S&K)", price: 60000, category: "Discord", sold: 190 },
-  { title: "Discord Boost Server x2", description: "Boost server 1 bulan", price: 30000, category: "Discord", sold: 200 },
+  { title: "Discord Nitro 3 Bulan", description: "Include claim (S&K)", price: 60000, category: "Discord", sold: 1 },
+  { title: "Discord Boost Server x2", description: "Boost server 1 bulan", price: 30000, category: "Discord", sold: 1 },
 
   // Shopee
-  { title: "Shopee Follower", description: "Harga /1K", price: 30000, category: "Shopee", sold: 190 },
+  { title: "Shopee Follower", description: "Harga /1K", price: 30000, category: "Shopee", sold: 1 },
 
   // Robux
-  { title: "Robux Via Gift", description: "1K Robux via gift, delay 5 hari", price: 125000, category: "Roblox", sold: 100 },
-  { title: "Robux Via Login", description: "1K Robux vilog, price: 150000", category: "Roblox", sold: 100 },
-  { title: "Robux Giftcard", description: "1K Robux giftcard", price: 180000, category: "Roblox", sold: 100 },
+  { title: "Robux Via Gift", description: "1K Robux via gift, delay 5 hari", price: 125000, category: "Roblox", sold: 5 },
+  { title: "Robux Via Login", description: "1K Robux vilog, price: 150000", category: "Roblox", sold: 1 },
+  { title: "Robux Giftcard", description: "1K Robux giftcard", price: 180000, category: "Roblox", sold: 1 },
   
   // Custom
-  { title: "Custom Order", description: "By request customer", price: null, category: "Custom", sold: 1000 },
+  { title: "Custom Order", description: "By request customer", price: null, category: "Custom", sold: 1 },
 ]
 
 export default function Home() {
