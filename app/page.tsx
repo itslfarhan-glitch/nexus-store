@@ -99,7 +99,7 @@ export default function Home() {
         <section className="mb-10 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
           {/* PLATFORM FILTER */}
           <div className="flex flex-wrap gap-2">
-            {["All", "Instagram", "TikTok", "Facebook", "Discord", "Shopee", "Custom"].map((item) => (
+            {["All", "Instagram", "TikTok", "Facebook", "Discord", "Shopee", "Roblox", "Custom"].map((item) => (
               <Button
                 key={item}
                 variant={platform === item ? "default" : "outline"}
