@@ -15,7 +15,7 @@ export function Header() {
         {/* Logo / Brand */}
         <div className="text-lg font-bold">
           <Link href="/" className="hover:opacity-80 transition">
-            NEXUS STORE
+            Nexus Store
           </Link>
         </div>
 
