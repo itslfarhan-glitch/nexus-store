@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Zap, ShieldCheck, MessageCircle } from "lucide-react"
 
 /* ================= CONFIG ================= */
-const WHATSAPP_NUMBER = "6281542788003" // GANTI nomor kamu
+const WHATSAPP_NUMBER = "62895321106324" // GANTI nomor kamu
 
 interface ProductCardProps {
   title: string
