@@ -47,6 +47,11 @@ const PRODUCTS: Product[] = [
   // Shopee
   { title: "Shopee Follower", description: "Harga /1K", price: 30000, category: "Shopee", sold: 190 },
 
+  // Robux
+  { title: "Robux Via Gift", description: "1K Robux via gift, delay 5 hari", price: 125000, category: "Roblox", sold: 100 },
+  { title: "Robux Via Login", description: "1K Robux vilog, price: 150000", category: "Roblox", sold: 100 },
+  { title: "Robux Giftcard", description: "1K Robux giftcard", price: 180000, category: "Roblox", sold: 100 },
+  
   // Custom
   { title: "Custom Order", description: "By request customer", price: null, category: "Custom", sold: 1000 },
 ]
